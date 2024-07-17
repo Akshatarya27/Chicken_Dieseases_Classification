@@ -14,3 +14,6 @@ Update the components
 Update the pipeline
 Update the main.py
 Update the dvc.yaml
+
+## 3. Create ECR repo to store/save docker image
+    Save the URI: 891377010053.dkr.ecr.eu-north-1.amazonaws.com/chicken

@@ -9,7 +9,7 @@ STAGE_NAME = "Evaluation stage"
 
 
 class EvaluationPipeline:
-    def __init__(self):
+    def __init__(self): 
         pass
 
     def main(self):
